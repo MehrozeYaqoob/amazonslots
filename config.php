@@ -7,7 +7,7 @@
     - create a new App and retrieve the app ID and namespace from Facebook
     Developer site at https://developers.facebook.com/apps
 */
-  $serverUrl = "https://friendsmash-unity.herokuapp.com";
+  $serverUrl = "https://afternoon-beach-48487.herokuapp.com/";
   $appNamespace = "Amazon Slots";
   $appId = "165491687329930";
 ?>
